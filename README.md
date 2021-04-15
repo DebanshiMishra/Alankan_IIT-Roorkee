@@ -6,6 +6,8 @@ Alankan is a case study challenge that will test the knowledge and skills to sol
 Invistico Airlines has a growing customer base over the past few years. The strategy is helping the airline in keeping the cost of operation low and passing on the benefits to end customers. As it gives a very cost-effective price to customers, the airline wants to know whether their customers are satisfied with the services. Our aim is:
 ## 1) To build a model to predict customer satisfaction.
 ## 2) To find the top factors affecting customer satisfaction.
-For the detailed Report: https://docs.google.com/presentation/d/1J3MmLSvTWRRCd9YaAZucxHzgBZSWkLTiUvdI8K4l7ZY/edit?usp=sharing The code is well documented . Access Alankan.ipynb for more
+For the detailed Report: https://docs.google.com/presentation/d/1J3MmLSvTWRRCd9YaAZucxHzgBZSWkLTiUvdI8K4l7ZY/edit?usp=sharing The code is well documented. Access Alankan.ipynb for more
+
+
 ![image](https://user-images.githubusercontent.com/76656076/114840856-dbca9580-9df4-11eb-99a8-2162c333dd8f.png)
 ![image](https://user-images.githubusercontent.com/76656076/114840893-e422d080-9df4-11eb-8aa5-7e2115ce53cb.png)
