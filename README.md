@@ -1,4 +1,5 @@
-# Alankan_IITR
+# Alankan_IITR 
+Data Analysis competition conducted by IIT Roorkee
 # "_You can have data without information, but you cannot have information without data._"
 Alankan is a case study challenge that will test the knowledge and skills to solve a data analytics-based case. This event will be conducted in two rounds. The winners of the competition will be decided after the completion of the final round which will be held during Cognizance. This competition celebrates the advancement of data science in today’s corporate world and would provide you an excellent platform to exhibit your skills while earning yourself a certificate and lucrative prize
 
